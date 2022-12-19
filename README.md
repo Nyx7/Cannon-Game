@@ -1,5 +1,5 @@
 # Cannon Game
-This project was made in 2019 for game implementation of the projectile motion knowledge from highschool physics class.
+This project was made in 2019 for game implementation of projectile motion knowledge from highschool physics class.
 
 # Credits
 * [Pygame_Functions by StevePaget](https://github.com/stevepaget/pygame_functions)
