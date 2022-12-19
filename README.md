@@ -8,6 +8,6 @@ This project was made in 2019 for game implementation of the projectile motion k
 * [Officer skeleton game asset by Boo](https://www.spriters-resource.com/pc_computer/maplestory/sheet/24170/)
 * [Ground game asset by Mageker](https://www.spriters-resource.com/pc_computer/maplestory/sheet/21909/)
 
-# Game Example
+# Game Examples
 ![](game_ex_1.jpg)
 ![](game_ex_2.jpg)
