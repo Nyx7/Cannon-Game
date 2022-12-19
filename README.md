@@ -9,5 +9,5 @@ This project was made in 2019 for game implementation of the projectile motion k
 * (Ground game asset by Mageker)[https://www.spriters-resource.com/pc_computer/maplestory/sheet/21909/]
 
 # Game Example
-![](game example/1.jpg)
-![](game example/2.jpg)
+![](game_example/1.jpg)
+![](game_example/2.jpg)
